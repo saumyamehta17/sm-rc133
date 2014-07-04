@@ -9,4 +9,3 @@ Gemfile
 gem 'capistrano' , group: :development
 bundle install
 ```
-
